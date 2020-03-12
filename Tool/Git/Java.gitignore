@@ -20,7 +20,7 @@ target/
 .project
 .metadata
 
-### STS ###
+# STS #
 .apt_generated
 .springBeans
 .sts4-cache
@@ -37,10 +37,10 @@ target/
 *.tar.gz
 *.rar
 
-# Log file
+# Log file #
 *.log
 
-#NetBeans #
+# NetBeans #
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -48,5 +48,5 @@ target/
 /.nb-gradle/
 build/
 
-#VS Code #
+# VS Code #
 .vscode/
