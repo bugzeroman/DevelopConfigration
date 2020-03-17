@@ -39,6 +39,7 @@ target/
 
 # Log file #
 *.log
+*.log.gz
 
 # NetBeans #
 /nbproject/private/
