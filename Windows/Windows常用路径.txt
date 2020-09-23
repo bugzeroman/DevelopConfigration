@@ -1,0 +1,5 @@
+1.ssh秘钥地址
+C:\Users\yuwen\.ssh
+
+2.host地址
+C:\Windows\System32\drivers\etc\hosts
