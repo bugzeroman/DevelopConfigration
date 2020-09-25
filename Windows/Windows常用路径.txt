@@ -1,5 +1,7 @@
 1.ssh秘钥地址
 C:\Users\yuwen\.ssh
+公钥：id_rsa.pub
+秘钥：id_rsa
 
 2.host地址
 C:\Windows\System32\drivers\etc\hosts
