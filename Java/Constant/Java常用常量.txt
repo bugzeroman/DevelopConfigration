@@ -1,0 +1,41 @@
+说明：
+Java开发中经常使用到常量值，
+有些使用已经有的预置的，避免创建新的常量。
+同时把源码文件保存到D:\MyDoc\DevelopConfigration\Java\Constant目录下，
+按照所在jar包分类：
+
+1.java.nio.charset.StandardCharsets
+UTF-8等编码格式：
+```
+public static final Charset UTF_8 = Charset.forName("UTF-8");
+```
+所在jar包：
+```
+rt.jar
+```
+
+2.com.google.common.base.Charsets
+所在jar包：
+```
+guava-22.0-sources.jar
+```
+
+3.org.apache.commons.codec.Charsets
+所在jar包：
+```
+commons-codec-1.13-sources.jar
+```
+
+4.com.baomidou.mybatisplus.core.toolkit.StringPool
+```
+String AMPERSAND = "&";
+String AND = "and";
+String RIGHT_BRACKET = ")";
+String UTF_8 = "UTF-8";
+String HTML_GT = "&gt;";
+```
+所在jar包：
+```
+mybatis-plus-core-3.3.2-sources.jar
+```
+

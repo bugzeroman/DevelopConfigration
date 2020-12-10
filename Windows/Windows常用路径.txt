@@ -5,3 +5,7 @@ C:\Users\yuwen\.ssh
 
 2.host地址
 C:\Windows\System32\drivers\etc\hosts
+
+
+3.
+C:\Program Develop\Maven\apache-maven-3.6.3
