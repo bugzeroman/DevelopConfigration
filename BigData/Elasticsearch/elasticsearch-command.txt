@@ -1,0 +1,7 @@
+查看进程：
+/home/elasticsearch/elasticsearch-7.10.1/jdk/bin/jps
+后台启动进程：
+/home/elasticsearch/elasticsearch-7.10.1/bin/elasticsearch -d -p pid.txt
+关闭进程，读取pid文件后kill：
+cat /home/elasticsearch/elasticsearch-7.10.1/pid.txt | xargs kill -9
+
