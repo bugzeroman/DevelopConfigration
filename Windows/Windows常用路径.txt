@@ -6,6 +6,12 @@ C:\Users\yuwen\.ssh
 2.host地址
 C:\Windows\System32\drivers\etc\hosts
 
-
-3.
+3.Maven工具
 C:\Program Develop\Maven\apache-maven-3.6.3
+Maven本地仓库地址
+C:\developtools\maven-repository
+
+4.git全局配置文件地址
+C:\Users\yuwen\.gitconfig
+git提交模板文件地址
+C:/ProgramData/Git/commit_template
