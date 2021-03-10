@@ -1,0 +1,205 @@
+.
+|-- Code
+|   |-- Code-IDEA
+|   |   `-- Learn
+|   |-- Learn
+|   |   |-- AdvanceCode
+|   |   |-- AlgorithmsDemo
+|   |   |-- DownloadMaven
+|   |   |-- FrameWork
+|   |   |-- JdkDemo
+|   |   |-- MavenDemo
+|   |   |-- MavenDemos
+|   |   |-- SpringBoot
+|   |   |-- SpringCloud
+|   |   |-- common-util
+|   |   `-- parse-file
+|   |-- Python
+|   |   |-- Learn
+|   |   `-- Reference
+|   |-- Reference
+|   |   |-- Algorithms
+|   |   |-- Apache
+|   |   |-- BigData
+|   |   |-- Google
+|   |   |-- Graph
+|   |   |-- ODL-Github
+|   |   |-- ODL-Netconf
+|   |   |-- SpringBoot
+|   |   |-- SpringCloud
+|   |   |-- ToolFrame
+|   |   `-- backup
+|   |-- Work
+|   |   |-- ODL-Netconf
+|   |   |-- SDN_idd
+|   |   |-- SDN_otn
+|   |   |-- backup
+|   |   |-- drools
+|   |   |-- network-monitor
+|   |   |-- pengyufu
+|   |   `-- suzhou_cloud_bandwidth
+|   `-- readme.md
+|-- Data
+|   |-- Backup
+|   |   |-- Book
+|   |   |-- Chrome
+|   |   |-- Eclipse
+|   |   |-- SSH-Sessions
+|   |   |-- Windows
+|   |   `-- 需要备份的目录.txt
+|   |-- VMwareData
+|   |   `-- Windows10-x64-AI-network
+|   `-- YNoteLoacl
+|       `-- weixinobU7VjmRYa4_CRKHQPUPliPfERAY
+|-- Doc
+|   |-- 01CMC-CMI Smart Route 2019
+|   |   |-- 01 Requirement
+|   |   |-- 02 Plan
+|   |   |-- 03 Tracking
+|   |   |-- 04 Develop
+|   |   |-- 05 Test
+|   |   |-- 06 Deliverable
+|   |   |-- 07 Meeting Minutes
+|   |   |-- 08 Referenced Material
+|   |   |-- 09 Miscs
+|   |   `-- 11 DataModel
+|   |-- 10.21.13.16
+|   |   |-- Code
+|   |   |-- Develop
+|   |   |-- Doc
+|   |   |-- Test
+|   |   `-- Tools
+|-- Downloads
+|   |-- 360Downloads
+|   |   |-- Software
+|   |-- BaiduNetdiskDownload
+|   |-- DirverDownloads
+|   |   `-- MyDrivers
+|   `-- ThunderDownload
+|       `-- Thunder
+|-- MyDoc
+|   |-- DevelopConfigration
+|   |   |-- BigData
+|   |   |-- Java
+|   |   |-- Log
+|   |   |-- Middleware
+|   |   |-- Test
+|   |   |-- Tool
+|   |   |-- Util
+|   |   `-- Windows
+|   |-- DevelopNote
+|   |   |-- Algorithm
+|   |   |-- Database
+|   |   |-- Docker
+|   |   |-- Eclipse,IDEA
+|   |   |-- Elasticsearch
+|   |   |-- Framework
+|   |   |-- FrontPage
+|   |   |-- Hadoop,Hbase,Hive
+|   |   |-- Hardware
+|   |   |-- Internet,IPv6
+|   |   |-- JVM
+|   |   |-- Java
+|   |   |-- Kafka,Kylin
+|   |   |-- Kerberos,LDAP
+|   |   |-- Language,Markup,Transmit
+|   |   |-- Linux
+|   |   |-- Maven
+|   |   |-- Middleware
+|   |   |-- NotUse
+|   |   |-- Others
+|   |   |-- Python,Shell
+|   |   |-- Ranger,OpenSource
+|   |   |-- Security
+|   |   |-- Solr,Sqoop,Storm
+|   |   |-- Solution
+|   |   |-- Spring,Spring Boot,Spring Cloud
+|   |   |-- Thinking
+|   |   |-- Tool
+|   |   |-- Windows
+|   |   |-- Zookeeper
+|   |   `-- 文章汇总.txt
+|   |-- Learn
+|   |   |-- 2.1.Java学习
+|   |   |-- 2.2.Python学习
+|   |   |-- 2.3.Spring学习
+|   |   |-- 2.4.数据结构和算法
+|   |   |-- 2.5.数据库
+|   |   |-- 2.6.开发工具
+|   |   |-- 2.7.大数据
+|   |   |-- 2.8.中间件
+|   |   |-- 2.9.其他
+|   |   |-- 3.0.Linux学习
+|   |   |-- 3.1.数据语言学习
+|   |   |-- 9.项目设计
+|   |   `-- 学习记录汇总.txt
+|   |-- LearnNetworkCourse
+|   |   |-- Java并发编程与高并发解决方案
+|   |   |-- Java面试系列
+|   |   |-- TCPIP协议原理
+|   |   |-- 极客时间课程下载
+|   |   |-- 计算机
+|   |   |-- 慕课网Java
+|   |   |-- 其他
+|   |   |-- 尚硅谷Java全套教程
+|   |   |-- 尚硅谷Python全套教程
+|   |   |-- 尚硅谷大数据
+|   |   |-- 尚硅谷公开课
+|   |   |-- 尚硅谷资料
+|   |   `-- 最新Java架构视频
+|   |-- LearnReferenceBook
+|   |   |-- BigData大数据
+|   |   |-- Eclipse使用
+|   |   |-- English英语
+|   |   |-- Framework
+|   |   |-- Java电子书
+|   |   |-- Linux
+|   |   |-- Network网络
+|   |   |-- Python电子书
+|   |   |-- Spring电子书
+|   |   |-- Tool工具类
+|   |   |-- 帮助文档大全
+|   |   |-- 计算机
+|   |   |-- 数据库
+|   |   |-- 算法和设计模式
+|   |   `-- 中间件
+|   |-- LeetCode
+|   |   `-- LeetCode研究.txt
+|   |-- ReferenceNote
+|   |   |-- 1.网络博客收藏整理
+|   |   `-- 1.网络课程教学笔记整理
+|   |-- UML类图
+|   |   `-- 数据库SQL语言类型(DQL.DML.DDL.DCL)
+|   `-- Xmind思维导图
+|       `-- 程序员电脑.xmind
+|-- MyLife
+|   |-- Book
+|   |-- Family
+|   |-- Game
+|   |-- Movie
+|   |-- Music
+|   |-- Personal
+|   |-- Pictures
+|   |-- Tools
+|   |-- Windows10
+|   |   |-- CentOS-8.2.2004-x86_64-dvd1.iso
+|   |   |-- TaskBarFix.bat
+|   |   |-- VMware-workstation-full-16
+|   |   |-- Windows10使用说明.txt
+|   |   |-- win10
+|   |   |-- 配置用户组策略
+|   |   `-- 隐藏Win10此电脑窗口的7个额外文件夹
+|   `-- backup
+|       |-- ChromeBookmarks
+|       |-- EclipseConfig
+|       |-- IDEAConfig
+|       `-- SVN
+|-- System Volume Information
+|-- WindowsImageBackup
+|   |-- 360BackUp.ini
+|   |-- 360BackupData
+|   |-- 360WinREBackup_111156.log
+|   `-- {4EE8ACA7-B68F-4ee3-8DA3-922E4AD9023A}.rec.flg
+`-- temp
+
+288 directories, 62 files

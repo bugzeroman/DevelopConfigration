@@ -1,0 +1,225 @@
+.
+|-- Foxmail 7.2
+|-- Program Develop
+|   |-- DBeaver
+|   |-- Java
+|   |-- Maven
+|   |-- PowerDesigner16
+|   |-- Python38
+|   |-- RedisDesktopManager
+|   |-- RestClient
+|   |-- VMware
+|   `-- apache-maven-3.3.9
+|-- Program Files
+|   |-- Array Networks
+|   |-- Common Files
+|   |-- DIFX
+|   |-- Firefox ActiveX Plugin
+|   |-- HP
+|   |-- HPCommRecovery
+|   |-- Hewlett-Packard
+|   |-- Intel
+|   |-- Internet Explorer
+|   |-- Microsoft Analysis Services
+|   |-- Microsoft Office
+|   |-- Microsoft SQL Server
+|   |-- Microsoft Update Health Tools
+|   |-- Microsoft.NET
+|   |-- ModifiableWindowsApps
+|   |-- NVIDIA Corporation
+|   |-- Online Services
+|   |-- Realtek
+|   |-- UNP
+|   |-- Uninstall Information
+|   |-- Windows Defender
+|   |-- Windows Mail
+|   |-- Windows Media Player
+|   |-- Windows Multimedia Platform
+|   |-- Windows NT
+|   |-- Windows Photo Viewer
+|   |-- Windows Portable Devices
+|   |-- Windows Security
+|   |-- Windows Sidebar
+|   |-- WindowsApps
+|   |-- WindowsPowerShell
+|   `-- desktop.ini
+|-- Program Files (my)
+|   |-- 360
+|   |-- 7-Zip
+|   |-- BaiduNetdisk
+|   |-- CloudMusic
+|   |-- Clover
+|   |-- DirectX修复工具
+|   |-- Everything
+|   |-- Fences
+|   |-- FoxitReader
+|   |-- Git
+|   |-- HPPrint
+|   |-- MindManager2020
+|   |-- Notepad++
+|   |-- OpenVPN
+|   |-- PathCopyCopy
+|   |-- PotPlayer
+|   |-- ScreenToGif
+|   |-- Tencent
+|   |-- TortoiseGit
+|   |-- TortoiseSVN
+|   |-- Typora
+|   |-- WXDrive
+|   |-- WinRAR
+|   |-- YouDaoDict
+|   |-- Youdao
+|   |-- foobar2000
+|   |-- office2016
+|   |-- sogoupinyin
+|   `-- 按键精灵
+|-- Program Files (x86)
+|   |-- Common Files
+|   |-- ExtendOffice
+|   |-- HP
+|   |-- Hewlett-Packard
+|   |-- InstallShield Installation Information
+|   |-- Intel
+|   |-- Internet Explorer
+|   |-- Microsoft Analysis Services
+|   |-- Microsoft Office
+|   |-- Microsoft SQL Server
+|   |-- Microsoft Visual Studio
+|   |-- Microsoft XNA
+|   |-- Microsoft.NET
+|   |-- NVIDIA Corporation
+|   |-- Online Services
+|   |-- Realtek
+|   |-- Sangfor
+|   |-- Tencent
+|   |-- VMware
+|   |-- Windows Defender
+|   |-- Windows Mail
+|   |-- Windows Media Player
+|   |-- Windows Multimedia Platform
+|   |-- Windows NT
+|   |-- Windows Photo Viewer
+|   |-- Windows Portable Devices
+|   |-- Windows Sidebar
+|   |-- WindowsPowerShell
+|   |-- desktop.ini
+|   `-- khealtheye
+|-- Program Green
+|   |-- Beyond Compare
+|   |-- CareUEyes 1.1.13.0
+|   |-- Chrome Plugin
+|   |-- Ditto
+|   |-- FSCapture90
+|   |-- Ghoster
+|   |-- JPEGView64
+|   |-- MobaXterm_Portable_v20.5
+|   |-- PDFelement
+|   |-- PandaOCR_2.63
+|   |-- SSR
+|   |-- ShareX_13.1.0_Portable
+|   |-- Umlet
+|   |-- ZoomIt
+|   |-- asiainfo.xin
+|   |-- eDiary-3.3.7
+|   |-- ffmpeg-20191101-53c21c2-win64-static
+|   |-- grayeyes
+|   `-- v2rayN-Core2
+|-- ProgramData
+|   |-- 360Backup
+|   |-- 360safe
+|   |-- 360sd
+|   |-- 360zip
+|   |-- ABBYY
+|   |-- AVG Secure Search
+|   |-- Application Data
+|   |-- Caphyon
+|   |-- Common Files
+|   |-- DG
+|   |-- Documents
+|   |-- FLEXnet
+|   |-- Foxit OnlineInstall
+|   |-- Git
+|   |-- HP
+|   |-- HP LaserJet
+|   |-- Hewlett-Packard
+|   |-- IObit
+|   |-- Intel
+|   |-- Licenses
+|   |-- Logs
+|   |-- Microsoft
+|   |-- Microsoft Help
+|   |-- Microsoft OneDrive
+|   |-- Microsoft Visual Studio
+|   |-- Mindjet
+|   |-- NVIDIA
+|   |-- NVIDIA Corporation
+|   |-- NetEaseWinDA
+|   |-- NetSarang Computer
+|   |-- Oracle
+|   |-- PDFelement 7
+|   |-- Package Cache
+|   |-- Packages
+|   |-- PowerDesigner 16
+|   |-- ProductData
+|   |-- Sangfor
+|   |-- SoftwareDistribution
+|   |-- SogouInput
+|   |-- SolidDocuments
+|   |-- SoundResearch
+|   |-- Stardock
+|   |-- Synaptics
+|   |-- TEMP
+|   |-- Templates
+|   |-- Tencent
+|   |-- Thunder Network
+|   |-- USOPrivate
+|   |-- USOShared
+|   |-- VMware
+|   |-- VPN
+|   |-- Validity
+|   |-- WindowsHolographicDevices
+|   |-- Youdao
+|   |-- boost_interprocess
+|   |-- deepscan
+|   |-- kdesk
+|   |-- kingsoft
+|   |-- nmlist.ini
+|   |-- ntuser.pol
+|   |-- regid.1991-06.com.microsoft
+|   |-- ssh
+|   |-- 「开始」菜单
+|   `-- 桌面
+|-- RelaxGame
+|-- Users
+|   |-- All Users
+|   |-- Default
+|   |-- Default User
+|   |-- Public
+|   |-- desktop.ini
+|   `-- yuwen
+|-- developtools
+|   |-- Microsoft VS Code
+|   |-- backup
+|   |-- cmss-maven-repo
+|   |-- eclipse
+|   |-- eclipse-2
+|   |-- eclipse-sts
+|   |-- idea
+|   |-- maven-repository
+|   |-- workspace
+|   |-- workspace-eclipse-2
+|   |-- workspace-other
+|   `-- workspace-sts
+|-- hiberfil.sys
+|-- hp
+|   |-- BIN
+|   |-- HPQWare
+|   |-- bridge
+|   `-- support
+|-- pagefile.sys
+|-- swapfile.sys
+`-- tmp
+    |-- Tencent
+    `-- abc.txt
+
+344 directories, 74 files
