@@ -1,0 +1,2 @@
+对象属性拷贝，从target拷贝到source
+org.springframework.beans.BeanUtils.copyProperties(Object source, Object target)
