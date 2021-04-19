@@ -1,0 +1,5 @@
+1.application/json
+com.google.common.net.MediaType.JSON_UTF_8
+
+2.text/xml
+com.google.common.net.MediaType.XML_UTF_8

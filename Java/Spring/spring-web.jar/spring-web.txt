@@ -1,0 +1,6 @@
+1.application/xml
+org.springframework.http.MediaType.APPLICATION_XML
+org.springframework.http.MediaType.APPLICATION_XML_VALUE
+
+
+
